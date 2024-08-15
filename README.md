@@ -2,6 +2,9 @@
 
 The perfect place for avid readers to store their book collection
 
+Made using React, ExpressJs, NodeJs, MongoDB, Tailwind CSS
+
+<br><br>
 To run the project locally on your system:
 1. Download the zip folder
 2. Open the folder in VS Code
